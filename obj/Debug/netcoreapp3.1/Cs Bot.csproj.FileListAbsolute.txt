@@ -1,0 +1,4 @@
+C:\Users\torit\OneDrive\Desktop\Vs proj\C#\Cs Bot\bin\Debug\netcoreapp3.1\Cs Bot.exe
+C:\Users\torit\OneDrive\Desktop\Vs proj\C#\Cs Bot\obj\Debug\netcoreapp3.1\Cs Bot.csprojAssemblyReference.cache
+C:\Users\torit\OneDrive\Desktop\Vs proj\C#\Cs Bot\obj\Debug\netcoreapp3.1\Cs Bot.AssemblyInfoInputs.cache
+C:\Users\torit\OneDrive\Desktop\Vs proj\C#\Cs Bot\obj\Debug\netcoreapp3.1\Cs Bot.AssemblyInfo.cs
